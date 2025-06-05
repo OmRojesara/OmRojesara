@@ -1,15 +1,121 @@
-<h1 align="center">Hi 👋, I'm Om Rojesara</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1 align="center">Hey there! I'm Om Rojesara <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="30px"></h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=omrojesara&label=Profile%20views&color=0e75b6&style=flat" alt="omrojesara" /> </p>
+<h3 align="center">A focused Full-Stack & Backend Developer from India 🇮🇳</h3>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=omrojesara&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" alt="coding gif" />
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=omrojesara&show_icons=true&locale=en&layout=compact" alt="omrojesara" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=omrojesara&show_icons=true&locale=en" alt="omrojesara" /></p>
+## 🚀 About Me
+
+Hello! I'm Om Rojesara — a passionate **Full-Stack & Backend Developer** from India 🇮🇳.  
+I specialize in building robust, scalable web applications and backend services with clean, efficient code.  
+I have a strong interest in database management, big data technologies, and AI integrations to solve real-world problems smarter and faster.
+
+I enjoy learning new tools, frameworks, and emerging technologies to stay at the cutting edge of software development.  
+Currently, I am focused on PHP, Python, JavaScript, C, C++, Java, R, and cloud/database ecosystems like MySQL, MongoDB, Oracle, and Firebase.  
+Alongside development, I explore big data tools like Hadoop, HDFS, Hive, and MapReduce to analyze and manage data at scale.
+
+When I’m not coding, I love exploring AI-powered automation solutions that can transform industries and businesses.
+
+---
+
+## ⚡️ Tech-Stack
+
+### <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="22px" align="top"/> &nbsp;&nbsp;Languages:
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,r,php,python,js,html,css&theme=dark" />
+</p>
+
+### 🧩 &nbsp;Frameworks & Libraries:
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=laravel,bootstrap,flask,django&theme=dark" />
+</p>
+
+### 🗄️ &nbsp;Databases & Big Data:
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,oracle,postgres,firebase,hadoop,hive&theme=dark" />
+</p>
+
+### 🛠️ &nbsp;Tools & Platforms:
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,aws,linux,oracleapex" />
+</p>
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+  <picture>
+    <source 
+      srcset="https://github-readme-stats.vercel.app/api?username=omrojesara&show_icons=true&theme=dark" 
+      media="(prefers-color-scheme: dark)" />
+    <source 
+      srcset="https://github-readme-stats.vercel.app/api?username=omrojesara&show_icons=true" 
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+    <img src="https://github-readme-stats.vercel.app/api?username=omrojesara&show_icons=true" alt="GitHub Stats" />
+  </picture>
+
+  <picture>
+    <source 
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=omrojesara&layout=compact&theme=dark" 
+      media="(prefers-color-scheme: dark)" />
+    <source 
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=omrojesara&layout=compact" 
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omrojesara&layout=compact" alt="Top Languages" />
+  </picture>
+
+  <br/>
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=omrojesara&theme=dark" alt="GitHub Streak" />
+</div>
+
+---
+
+## 💼 Projects I Work On
+
+🚀 AI-Based CRM Management System  
+🚗 AI Multibrand Vehicle Showroom  
+💍 Destination Wedding Planner  
+📦 Cargo Booking & Logistics System  
+📊 Smart Inventory & Billing System for Wholesalers  
+⚙️ Many other client-based PHP & AI integrations!
+
+---
+
+## 📫 Let's Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/omrojesara" target="_blank" rel="noopener noreferrer">
+    <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" alt="LinkedIn" width="40" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="mailto:omrojesara@gmail.com" target="_blank" rel="noopener noreferrer">
+    <img src="https://skillicons.dev/icons?i=gmail&theme=dark" alt="Email" width="40" />
+  </a>
+</p>
+
+---
+
+### ✨ Fun Fact
+
+> “Code is like humor. When you have to explain it, it’s bad.” — *Cory House*  
+> Let’s build smarter and cleaner software together! 🚀
+
+---
+
+<p align="center">
+  🔥 Happy Coding! 🌟  
+</p>
