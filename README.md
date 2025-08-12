@@ -3,63 +3,65 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=4000&pause=1000&color=00F700&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Om+Rojesara+%F0%9F%91%8B;Full-Stack+%26+Backend+Developer+from+India+%F0%9F%87%AE%F0%9F%87%B3;Passionate+about+AI%2C+Big+Data%2C+and+Automation;Turning+Ideas+into+Impactful+Software+Solutions" alt="Typing SVG" />
 </p>
 
----
-
-<h2 align="center">🚀 Who Am I?</h2>
-
-I'm **Om Rojesara**, an **Innovative & Solutions-Driven Full-Stack Developer** passionate about building **scalable, user-focused, and intelligent software solutions**.  
-With hands-on experience across **PHP, MERN stack, .NET frameworks, AI integrations**, and **big data tools**, I specialize in crafting **performant backends**, **responsive frontends**, and **efficient databases**.
-
-💡 **My mission:** Transform complex problems into elegant, automated, and impactful solutions.
-
----
-
-## 🧠 Summary of My Professional Profile
-- **💻 Proficiency in Multiple Tech Stacks** — PHP, Node.js, Express.js, ASP.NET, Python, Java, C++, C#, MERN, ReactJS (ShadCN UI)
-- **🗄 Strong Database Skills** — PostgreSQL, MySQL, Oracle SQL, SQL Server, MongoDB
-- **📊 Data-Driven Mindset** — Optimized databases with indexing & normalization for high-performance systems
-- **⚙️ SaaS Product Builder** — Built AI-powered SaaS platforms with focus on scalability, API integration, and automation
-- **🛠 Tools I Live By** — Git, GitHub, GitLab, VS Code, Docker, AWS, Linux
-- **📚 Problem-Solver** — OOP, Data Structures & Algorithms (DSA), DBMS, and complex system design
-
----
-
-## 🛠 Tech Stack
+<!-- Badges -->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,cs,js,html,css,react,php,nodejs,express,asp,dotnet,laravel,bootstrap,mysql,postgres,oracle,mongodb,git,github,gitlab,linux,docker,aws&perline=8" />
+  <img src="https://komarev.com/ghpvc/?username=omrojesara&label=Profile%20Views&color=blue&style=for-the-badge" alt="profile views"/>
+  <img src="https://img.shields.io/badge/Focus-Full%20Stack%20%7C%20Backend%20Dev-blueviolet?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Loves-AI%20%7C%20Big%20Data%20%7C%20Automation-orange?style=for-the-badge"/>
 </p>
 
 ---
 
-## 📌 Work Experience
+## 🌟 About Me
+> *"I don't just code — I engineer experiences that solve real-world problems."*
 
+I am **Om Rojesara**, a **Full-Stack & Backend Developer** who blends **logic, creativity, and innovation** to build high-performance, user-centric, and scalable applications.  
+My journey spans **professional PHP development**, **SaaS product building**, **AI integrations**, **database optimization**, and **cutting-edge frontend work**.
+
+💡 **What I Do Best**  
+- Architecting **scalable systems** that handle real-world traffic & complexity  
+- Building **beautiful, responsive UIs** powered by modern frameworks  
+- Designing **optimized database schemas** that improve performance  
+- Integrating **AI & automation** to make products smarter  
+- Writing **clean, maintainable, and future-proof code**  
+
+---
+
+## 🛠 My Tech Universe
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,cs,js,html,css,react,php,nodejs,express,asp,dotnet,laravel,bootstrap,mysql,postgres,oracle,mongodb,git,github,gitlab,linux,docker,aws&perline=9" />
+</p>
+
+---
+
+## 💼 Professional Experience
 ### **Full-Stack Developer Intern — Tymmo Enterprise (Remote)** *(Jun 2025 - Present)*
-- Developing **AI-integrated SaaS products** for real-world automation
-- **React + ShadCN UI** frontend, **Node.js + PostgreSQL** backend
-- Designing APIs for **seamless system integration** and scalability
+- Designing **AI-powered SaaS** solutions for automation and business intelligence  
+- Frontend in **React (ShadCN UI)** + backend in **Node.js & PostgreSQL**  
+- Developed **API-driven features** to integrate across platforms  
 
 ### **PHP & Database Developer — Tabbly.io (Remote)** *(Sep 2024 - Nov 2024)*
-- **Optimized relational database schemas** with indexing & normalization
-- Built lead generation features for a CRM platform
-- Collaborated with **frontend & product teams** for secure, scalable solutions
+- **Optimized databases** using indexing and normalization, boosting performance  
+- Added **lead generation modules** to CRM  
+- Delivered **scalable backend solutions** with secure authentication  
 
-### **Subject Matter Expert — QAsolvers (Freelance)** *(Jun 2025 - Present)*
-- Reviewing and validating academic content on **OOP, DSA, Python, Java, C++**
-- Ensuring **conceptual accuracy & clarity** in technical documentation
-
----
-
-## 💼 Notable Projects
-| Project | Tech Stack | Highlights |
-|---------|------------|------------|
-| **7-Vachan — Destination Wedding Planner** | PHP, MySQL, jQuery, Bootstrap | AI-driven personalized wedding packages based on budget, guest count, location |
-| **CarLux — Multibrand Vehicle Showroom** | PHP, MySQL, JS | Secure booking system with multi-brand vehicle listing |
-| **Sahajanand Ornaments — E-Commerce** | Shopify, Liquid, JS | Custom collections, secure checkout, responsive design |
-| **Wholesale Business Management System** | PHP, MySQL | Real-time stock updates, sales reports, order tracking |
+### **Subject Matter Expert — QAsolvers** *(Jun 2025 - Present)*
+- Reviewing **academic content** for correctness & clarity in **OOP, DSA, Python, Java, C++**  
+- Ensuring **conceptual quality** in tech education materials  
 
 ---
 
-## 📊 GitHub Analytics
+## 🚀 Flagship Projects
+| Project | Tech Stack | Key Features |
+|---------|------------|--------------|
+| **7-Vachan Wedding Planner** | PHP, MySQL, jQuery, Bootstrap | AI-based package recommendations for weddings |
+| **CarLux Vehicle Showroom** | PHP, MySQL, JS | Multi-brand booking platform with secure payments |
+| **Sahajanand Ornaments** | Shopify, Liquid, JS | Custom e-commerce with advanced filters |
+| **Wholesale Management System** | PHP, MySQL | Real-time stock updates, sales reports, orders tracking |
+
+---
+
+## 📊 My GitHub Story
 <div align="center">
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=omrojesara&show_icons=true&theme=tokyonight&count_private=true)  
@@ -90,4 +92,6 @@ With hands-on experience across **PHP, MERN stack, .NET frameworks, AI integrati
 
 ---
 
-<p align="center">🔥 Let’s Build the Future — One Commit at a Time 🔥</p>
+<p align="center">
+🔥 *Let’s innovate, automate, and create software that matters.* 🔥
+</p>
